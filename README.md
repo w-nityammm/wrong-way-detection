@@ -27,7 +27,7 @@ The repository contains the following key files and directories:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/KrishGaur1354/Wrong-Way-Detection.git
+   git clone https://github.com/w-nityammm/wrong-way-detection.git
    ```
 
 2. Install the required dependencies:
